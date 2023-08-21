@@ -2,19 +2,22 @@
 #yellow{
 	background:yellow;
 	border-width:1px;
-	border-color:green;
+	  border-style: solid;
+  border-color: green;
 }
 /*  your css code here. If applicable */
 #red{
 		background:red;
 	border-width:1px;
-	border-color:black;
+	  border-style: solid;
+  border-color: black;
 	
 }
 /*  your css code here. If applicable */
 #green{
 		background:green;
 	border-width:1px;
-	border-color:yellow;
+	  border-style: solid;
+  border-color: yellow;
 	
 }
